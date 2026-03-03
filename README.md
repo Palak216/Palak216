@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palak Agrawal</h1>
 <h3 align="center">I’m currently working on Myself</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palak216" alt="palak216" /></a> </p>
-
 - 🔭 I’m currently working on **nodegram-backend**
 
 - 🌱 I’m currently learning **React Js,Node Js**
