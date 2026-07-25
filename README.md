@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palak Agrawal</h1>
 <h3 align="center">I'm currently working on Myself</h3>
 
-- 🔭 I’m currently working on **nodegram-backend**
-
-- 🌱 I’m currently learning **React Js,Node Js**
-
 - 📝 I regularly solving problems on **https://leetcode.com/u/ag__palak/**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Palak216](https://github.com/Palak216)
