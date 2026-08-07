@@ -193,7 +193,6 @@ A secure RESTful social media backend inspired by Instagram, featuring authentic
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## ⚔️ Competitive Programming
 
 <div align="center">
@@ -203,56 +202,25 @@ A secure RESTful social media backend inspired by Instagram, featuring authentic
 <td align="center">
 
 ### 🟡 LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/paandaa?theme=dark&font=Nunito&ext=contest&border=0)](https://leetcode.com/u/paandaa/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/palakagraw?theme=dark&font=Nunito&ext=contest&border=0)](https://leetcode.com/u/palakagraw/)
 
 </td>
-<td align="center" valign="top">
+
+<td align="center">
 
 ### 📈 CP Stats at a Glance
 
-<br/>
-
-| Platform | Handle | Rating / Stats |
+| Platform | Profile | Stats |
 |:---:|:---:|:---:|
-| 🟡 **LeetCode** | [paandaa](https://leetcode.com/u/palakagraw/) | 500+ Problems |
-| 🔵 **Codeforces** | [Nitzyy](https://codeforces.com/profile/palakagrawal899) | **791** Rating |
-| 🟢 **GeeksForGeeks** | [nitesh7343](https://www.geeksforgeeks.org/profile/palakagrgrra) | Active |
-
-<br/>
-
-```
-🏆 Total Problems Solved: 500+
-⚡ Codeforces Max Rating: 791
-🎯 Consistency: Multi-platform competitor
-```
+| 🟡 **LeetCode** | [palakagraw](https://leetcode.com/u/palakagraw/) | **550+ Problems Solved** |
+| 🔵 **Codeforces** | [palakagrawal899](https://codeforces.com/profile/palakagrawal899) | **Active Competitive Programmer** |
+| ⚫ **GitHub** | [Palak216](https://github.com/Palak216) | **Open Source Projects** |
 
 </td>
 </tr>
 </table>
 
 </div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- Row 1: Top trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Palak216&theme=tokyonight&column=4&margin-w=12&margin-h=12&rank=SECRET,SSS,SS,S,AAA,AA" />
-
-<br/>
-
-<!-- Row 2: More trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Palak216&theme=tokyonight&column=4&margin-w=12&margin-h=12&rank=A,B,C" />
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 🏅 Achievements & Certifications
 
