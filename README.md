@@ -124,7 +124,7 @@ A full-stack MERN flight booking application that enables users to search flight
 <td width="50%" valign="top">
 
 ### 🏨 [ Mini-Instagram Backend](https://github.com/Palak216/mini-instagram-backend)
-> **Full-Stack Secure Booking Engine**
+> **Social Media Backend**
 
 <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Web+App-purple?style=flat-square"/>
 
