@@ -48,8 +48,6 @@ stats:
 
 currently_learning:
   -Design Patterns
-  - System Design
-  - System Architecture
   - Artificial Intelligence & Machine Learning
 
 goal: Software Engineer 🎯
