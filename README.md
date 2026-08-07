@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Nitesh7343&label=Profile+Views&color=39FF14&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Palak216&label=Profile+Views&color=39FF14&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Nitesh7343?label=Followers&style=for-the-badge&color=0077B5&logo=github" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/Palak216?label=Followers&style=for-the-badge&color=0077B5&logo=github" alt="GitHub Followers"/>
 
 <br/><br/>
 
