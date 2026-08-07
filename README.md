@@ -160,10 +160,10 @@ A secure RESTful social media backend inspired by Instagram, featuring authentic
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh7343&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github&cache_seconds=1800" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Palak216&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github&cache_seconds=1800" height="180em"/>
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh7343&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&cache_seconds=1800" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak216&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&cache_seconds=1800" height="180em"/>
 </td>
 </tr>
 </table>
@@ -176,7 +176,7 @@ A secure RESTful social media backend inspired by Instagram, featuring authentic
 <br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh7343&theme=tokyo-night&area=true&hide_border=true&radius=8" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak216&theme=tokyo-night&area=true&hide_border=true&radius=8" width="95%" alt="Contribution Graph"/>
 
 </div>
 
