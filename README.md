@@ -210,7 +210,7 @@ A secure RESTful social media backend inspired by Instagram, featuring authentic
 
 | Platform | Profile | Stats |
 |:---:|:---:|:---:|
-| 🟡 **LeetCode** | [palakagraw](https://leetcode.com/u/palakagraw/) | **550+ Problems Solved** |
+| 🟡 **LeetCode** | [palakagraw](https://leetcode.com/u/palakagraw/) | **500+ Problems Solved** |
 | 🔵 **Codeforces** | [palakagrawal899](https://codeforces.com/profile/palakagrawal899) | **Active Competitive Programmer** |
 | ⚫ **GitHub** | [Palak216](https://github.com/Palak216) | **Open Source Projects** |
 
