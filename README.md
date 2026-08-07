@@ -268,17 +268,12 @@ A secure RESTful social media backend inspired by Instagram, featuring authentic
 
 </div>
 
----
+----
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+## 🎉 Thanks for Visiting!
 
-## OK OK lemme tell you a joke 😅
+Since you've made it this far, here's a random programming joke to end your visit with a smile. 😊
 
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card"/>
-
-</div>
 
 ---
 
