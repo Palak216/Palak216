@@ -95,7 +95,6 @@ available: true
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## 💼 Featured Projects
 
 <div align="center">
@@ -103,44 +102,53 @@ available: true
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ [SkySafe](https://github.com/Palak216/SkySafe)
-> **Flight Booking Platform**
+### ✈️ [SkySafe — Flight Booking Platform](https://github.com/Palak216/SkySafe)
 
-<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/Type-SaaS-blue?style=flat-square"/>
+**AI-Assisted MERN Flight Booking Application**
 
-A full-stack MERN flight booking application that enables users to search flights, book tickets, manage bookings, and provides an admin dashboard for monitoring flights, users, bookings, and revenue.
+<img src="https://img.shields.io/badge/Status-Deployed-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Full--Stack-blue?style=flat-square"/>
+
+A full-stack flight booking application that allows users to search flights, manage bookings, and access a personalized booking history, with an admin dashboard for managing flights and monitoring booking activity.
 
 **✨ Key Features:**
-- ✈️ Search and book flights with real-time availability.
-- 👤 Secure user authentication using JWT and bcrypt.
-- 🎟️ Multi-passenger booking with booking history and cancellation.
-- 👨‍💼 Admin dashboard to monitor flights, users, bookings, and revenue.
-- 📱 Responsive React frontend with Node.js, Express.js, and MongoDB backend.
+- ✈️ Flight search with an AI-assisted natural-language query interface.
+- 🔎 Extracts travel preferences such as routes, dates, departure times, and stops.
+- 🔐 Secure authentication using JWT, HTTP-only cookies, and bcrypt.
+- 🎟️ Passenger details, booking history, and cancellation workflows.
+- 👨‍💼 Admin dashboard for flight and booking management.
+- 🗄️ MongoDB-backed data management with RESTful APIs.
 
-**🏗️ Stack:**
-`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Axios`  
+**🏗️ Tech Stack:**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Axios` `Gemini API`
+
+**🔗 Links:** [GitHub Repository](https://github.com/Palak216/SkySafe) · [Live Demo](https://skysafe-1.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏨 [ Mini-Instagram Backend](https://github.com/Palak216/mini-instagram-backend)
-> **Social Media Backend**
+### 📸 [Connectify — Social Media Platform](https://github.com/Palak216/mini-instagram-backend)
 
-<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Web+App-purple?style=flat-square"/>
+**Full-Stack Social Networking Application**
 
-A secure RESTful social media backend inspired by Instagram, featuring authentication, post management, and user interactions built with Node.js, Express.js, and MongoDB.
+<img src="https://img.shields.io/badge/Type-Full--Stack-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat-square"/>
+
+A social media application inspired by Instagram, built around user accounts, posts, social interactions, and notifications.
 
 **✨ Key Features:**
-- 🔐 Secure user authentication using bcrypt and Express Session.
-- 👤 User registration, login, logout, and profile management.
-- 📝 Create, edit, delete, and view posts.
-- ❤️ Like and unlike posts.
-- 💬 Add and manage comments on posts.
-- 🖼️ Image upload support using Multer.
-- 🗄️ MongoDB database with Mongoose for efficient data modeling.
+- 🔐 User authentication and session management.
+- 👤 User profiles and follow/unfollow functionality.
+- 📝 Create, view, and manage posts.
+- ❤️ Like posts and interact with content.
+- 💬 Comment functionality for social engagement.
+- 🔔 Notifications for relevant user interactions.
+- 🖼️ Image uploads and media handling.
 
-**🏗️ Stack:**
-`Node.js` `Express.js` `MongoDB` `EJS` `Cloudinary` `Mongoose` `bcrypt` `Multer` `EJS`
+**🏗️ Tech Stack:**
+
+`Node.js` `Express.js` `MongoDB` `Mongoose` `EJS` `Cloudinary` `Multer`
+
+**🔗 Links:** [GitHub Repository](https://github.com/Palak216/mini-instagram-backend)
 
 </td>
 </tr>
@@ -150,6 +158,7 @@ A secure RESTful social media backend inspired by Instagram, featuring authentic
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 
 ## 📊 GitHub Analytics
 
