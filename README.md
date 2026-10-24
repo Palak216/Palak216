@@ -1,141 +1,107 @@
-<div align="center">
+ <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Palak%&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=53&descSize=16"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Palak%20Agrawal&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=56&descSize=16"/>
 
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=750&lines=Full+Stack+MERN+Developer;Building+AI-Powered+Applications;Backend+Engineering+Enthusiast;Open+to+SDE+Internship+Opportunities" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Java+%26+Data+Structures+Enthusiast;Building+AI-Assisted+Applications;Passionate+About+Backend+Engineering;Open+to+Software+Engineering+Opportunities" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Palak216&label=Profile+Views&color=39FF14&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Palak216?label=Followers&style=for-the-badge&color=0077B5&logo=github" alt="GitHub Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Palak216&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Palak216?label=Followers&style=for-the-badge&color=203A43&logo=github" alt="GitHub Followers"/>
 
 <br/><br/>
 
-<!-- Social Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-agrawal-231b09293/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/palakagraw/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/palakagrawal899)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/palakagrgrra)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palak216)
+<a href="https://www.linkedin.com/in/palak-agrawal-231b09293/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/palakagraw/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://codeforces.com/profile/palakagrawal899"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://github.com/Palak216"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> About Me
+## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding Animation" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```yaml
-name: Palak
-location: Mathura, Uttar Pradesh, India
-education: B.Tech Computer Science @ GLA University
+Hi! I'm **Palak Agrawal**, a final-year Computer Science student at GLA University, Mathura, passionate about building useful software and solving challenging problems.
 
-role: Software Engineer || Full Stack Developer (MERN)
-focus:
-  - Scalable Web Applications
-  - AI-Powered Products
-  - Backend Engineering 
-
-stats:
-  dsa_problems: 550+
-  codeforces_rating: 791
-
-currently_learning:
-  -Design Patterns
-  - Artificial Intelligence & Machine Learning
-
-goal: Software Engineer 🎯
-available: true
-```
+- 🎓 Pursuing B.Tech in Computer Science (2023–2027)
+- 💻 Developing full-stack applications using the MERN stack
+- ☕ Practicing Java, DSA, and object-oriented programming
+- 🤖 Exploring AI-assisted applications and natural-language processing
+- 🔧 Interested in backend development, REST APIs, and databases
+- 🎯 Looking for software engineering internships and opportunities to learn through real-world projects
 
 <br clear="right"/>
 
 ---
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp&theme=dark" />
-</p>
+### 💻 Programming Languages
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp&theme=dark" alt="Programming Languages"/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Technologies"/>
 
 ### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
-</p>
 
-### 🔧 DevOps, Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,azure&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and Databases"/>
 
-### 📚 Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,docker,kubernetes,redis&theme=dark" />
-</p>
+### 🔧 Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" alt="Developer Tools"/>
 
 </div>
 
+**Core Concepts:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · REST APIs · Authentication · MVC Architecture
+
+**Currently Exploring:** Design Patterns · Artificial Intelligence & Machine Learning · Backend System Design
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 ## 💼 Featured Projects
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">## 💼 Featured Projects
+### ✈️ [SkySafe — Flight Booking Platform](https://github.com/Palak216/SkySafe)
+
+> **Full-Stack MERN Application with AI-Assisted Flight Search**
+
+<img src="https://img.shields.io/badge/Type-Full--Stack-2563EB?style=flat-square" alt="Full Stack"/> <img src="https://img.shields.io/badge/Feature-AI--Assisted%20Search-7C3AED?style=flat-square" alt="AI-Assisted Search"/>
+
+A flight booking application that allows users to search flights, manage reservations, view booking history, and access an administrative dashboard.
+
+**✨ Key Features**
+
+- ✈️ Flight search using natural-language travel queries
+- 🤖 Extraction of travel preferences, including routes, dates, departure times, and stops
+- 🔐 User authentication with JWT, HTTP-only cookies, and bcrypt
+- 🎟️ Passenger information, booking history, and cancellation workflows
+- 👨‍💼 Admin dashboard for flight and booking management
+- 🗄️ RESTful APIs backed by MongoDB
+
+**🏗️ Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Axios`
+
+**🔗 Links:** [Repository](https://github.com/Palak216/SkySafe) · [Live Demo](https://skysafe-1.onrender.com/)
 
 ---
 
-### ✈️ [SkySafe](https://github.com/Palak216/SkySafe)
+### 📸 [Connectify — Social Media Platform](https://github.com/Palak216/mini-instagram-backend)
 
-> **AI-Assisted Flight Booking Platform**
+> **Full-Stack Social Networking Application**
 
-<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/Type-Full--Stack-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Full--Stack-7C3AED?style=flat-square" alt="Full Stack"/> <img src="https://img.shields.io/badge/Database-MongoDB-16A34A?style=flat-square" alt="MongoDB"/>
 
-A full-stack MERN flight booking application that enables users to search flights, book tickets, manage reservations, and access booking history, with an admin dashboard for flight and booking management.
+A social networking application inspired by Instagram, focused on user profiles, posts, social interactions, and notifications.
 
-**✨ Key Features:**
-
-- ✈️ Flight search with AI-assisted natural-language query processing
-- 🔎 Extracts travel preferences such as routes, dates, departure times, and stops
-- 🔐 Secure authentication using JWT, HTTP-only cookies, and bcrypt
-- 🎟️ Passenger management, booking history, and cancellation
-- 👨‍💼 Admin dashboard for managing flights and monitoring bookings
-- 🌐 RESTful APIs with MongoDB-backed data storage
-
-**🏗️ Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Axios` `Gemini API`
-
-**🔗 Links:** [GitHub Repository](https://github.com/Palak216/SkySafe) · [Live Demo](https://skysafe-1.onrender.com/)
-
----
-
-### 📸 [Connectify](https://github.com/Palak216/mini-instagram-backend)
-
-> **Full-Stack Social Media Platform**
-
-<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/Type-Web--App-purple?style=flat-square" />
-
-A social networking application inspired by Instagram, featuring user profiles, post management, social interactions, and notifications, built with Node.js, Express.js, MongoDB, and EJS.
-
-**✨ Key Features:**
+**✨ Key Features**
 
 - 🔐 User authentication and session management
 - 👤 User profiles and follow/unfollow functionality
@@ -143,170 +109,92 @@ A social networking application inspired by Instagram, featuring user profiles, 
 - ❤️ Like and unlike posts
 - 💬 Comment on posts
 - 🔔 Notifications for user interactions
-- 🖼️ Image uploads and media handling with Cloudinary and Multer
+- 🖼️ Image upload and media handling
 
-**🏗️ Stack:** `Node.js` `Express.js` `MongoDB` `Mongoose` `EJS` `Cloudinary` `Multer`
+**🏗️ Tech Stack:** `Node.js` `Express.js` `MongoDB` `Mongoose` `EJS` `Cloudinary` `Multer`
 
-**🔗 Links:** [GitHub Repository](https://github.com/Palak216/mini-instagram-backend) · [Live Demo](https://mini-instagram-backend-1-l4ej.onrender.com)
+**🔗 Links:** [Repository](https://github.com/Palak216/mini-instagram-backend) · [Live Demo](https://mini-instagram-backend-1-l4ej.onrender.com)
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Palak216&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github&cache_seconds=1800" height="180em"/>
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak216&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&cache_seconds=1800" height="180em"/>
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Palak216&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak216&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
-<br/>
+<br/><br/>
 
-<!-- Streak Stats — using demolab for reliability -->
-<img src="https://streak-stats.demolab.com/?user=Nitesh7343&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Palak216&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
-<br/>
+<br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak216&theme=tokyo-night&area=true&hide_border=true&radius=8" width="95%" alt="Contribution Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Palak216&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Snake Preview"/>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 ## ⚔️ Competitive Programming
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-### 🟡 LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/palakagraw?theme=dark&font=Nunito&ext=contest&border=0)](https://leetcode.com/u/palakagraw/)
-
-</td>
-
-<td align="center">
-
-### 📈 CP Stats at a Glance
-
-| Platform | Profile | Stats |
-|:---:|:---:|:---:|
-| 🟡 **LeetCode** | [palakagraw](https://leetcode.com/u/palakagraw/) | **500+ Problems Solved** |
-| 🔵 **Codeforces** | [palakagrawal899](https://codeforces.com/profile/palakagrawal899) | **Active Competitive Programmer** |
-| ⚫ **GitHub** | [Palak216](https://github.com/Palak216) | **Open Source Projects** |
-
-</td>
-</tr>
-</table>
+<a href="https://leetcode.com/u/palakagraw/">
+<img src="https://leetcard.jacoblin.cool/palakagraw?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+</a>
 
 </div>
 
-## 🏅 Achievements & Certifications
+| Platform | Profile | Focus |
+|:---|:---|:---|
+| 🟡 LeetCode | [palakagraw](https://leetcode.com/u/palakagraw/) | 500+ problems solved |
+| 🔵 Codeforces | [palakagrawal899](https://codeforces.com/profile/palakagrawal899) | Competitive programming |
+| ⚫ GitHub | [Palak216](https://github.com/Palak216) | Projects and development |
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🏆 Hackathons & Milestones
+## 🏆 Achievements & Certifications
 
-| 🏅 | Achievement |
-|:---:|:---|
-| 🚀 | **Finalist** — Smart India Hackathon (SIH) |
-| 💡 | **Participant** — Deviathon National Hackathon |
-| 🎨 | **Participant** — Adobe India Hackathon |
-| 🧠 | **500+ DSA Problems** Solved Across Platforms |
-| ⭐ | **791 Codeforces Rating** |
+### 🥇 Hackathons & Milestones
 
-</td>
-<td width="50%" valign="top">
+- 🚀 Finalist — Smart India Hackathon (college-level, if applicable to the event you attended)
+- 💡 Participant — Deviathon
+- 🎨 Participant — Adobe India Hackathon
+- 🧠 Solved 500+ DSA problems across coding platforms
 
 ### 📜 Certifications
 
-| 🎓 | Certification |
-|:---:|:---|
-| 📱 | **Meta Back-End Developer** Professional Certificate |
-
-<br/>
-
-### 🎯 Currently Targeting
-```
-📌 SDE Internship — 2026
-📌 Open Source Contributions
-
-```
-
-</td>
-</tr>
-</table>
-</div>
+- Backend Development — Coursera
+- Front-End Development — Coursera
+- Database Course — Coursera
+- Python — Kaggle
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+## 🎯 Current Goals
 
-
-
-</div>
-
-----
-
-## 🎉 Thanks for Visiting!
-
-Since you've made it this far, here's a random programming joke to end your visit with a smile. 😊
-
+- 📚 Strengthen Java, DSA, and problem-solving skills
+- 🏗️ Build reliable and maintainable backend services
+- 🤖 Explore practical AI and machine-learning applications
+- 🌱 Improve software engineering practices through real-world projects
+- 💼 Prepare for software engineering internships and entry-level roles
 
 ---
 
-## Let's Connect 😌!
+## 🤝 Let's Connect!
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="Handshake Animation"/>
 
-**Open to collaborations, internships, and exciting projects!**
+**I'm open to collaborations, internships, and exciting software development opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-agrawal-231b09293/)
-[![Email](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palakagrawal899@gmail.com)
+<a href="https://www.linkedin.com/in/palak-agrawal-231b09293/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:palakagrawal899@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="Footer Banner"/>
 
 </div>
-
-<!-- 
-  ====================================================
-  SETUP CHECKLIST FOR THIS README:
-  ====================================================
-  1. ✅ Replace Palak216@gmail.com with your actual email
-  2. ✅ Set up snake.yml GitHub Action (instructions in snake section)
-     → After setup, uncomment the snake SVG line and remove the preview
-  3. ✅ Verify your LeetCode handle (palakagraw) is correct
-  4. ✅ Verify your Codeforces handle (palakagrawal899) is correct
-  5. ✅ Mermaid mindmap renders on GitHub natively (no setup needed)
-  ====================================================
--->
