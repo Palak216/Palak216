@@ -6,9 +6,8 @@ I’m a Computer Science student at **GLA University, Mathura**, passionate abou
 
 - 🔭 Building and improving full-stack projects
 - 🌱 Strengthening my skills in **Java, Data Structures & Algorithms, and MERN**
-- ✈️ Working on **SkySafe**, a flight booking platform with AI-assisted search
 - 🤝 Exploring opportunities in software development and AI-related coding
-- 📫 Reach me at: **palakagrawal899@gmail.com**
+- 📫 Reach me at: **palakagrawal621@gmail.com**
 
 ---
 
