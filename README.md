@@ -7,7 +7,6 @@ I’m a Computer Science student at **GLA University, Mathura**, passionate abou
 - 🔭 Building and improving full-stack projects
 - 🌱 Strengthening my skills in **Java, Data Structures & Algorithms, and MERN**
 - 🤝 Exploring opportunities in software development and AI-related coding
-- 📫 Reach me at: **palakagrawal621@gmail.com**
 
 ---
 
