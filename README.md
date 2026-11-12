@@ -82,6 +82,8 @@ A social networking project inspired by Instagram, focused on user interaction a
 **Tech:** JavaScript, Node.js, Express, MongoDB, EJS
 
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Palak216/mini-instagram-backend)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E8B57?style=for-the-badge&logo=render&logoColor=white)](https://mini-instagram-backend-1-l4ej.onrender.com/
+)
 
 </td>
 </tr>
