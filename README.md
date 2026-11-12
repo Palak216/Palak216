@@ -78,7 +78,8 @@ A social networking project inspired by Instagram, focused on user interaction a
 - 📝 Posts and engagement features
 - 🔔 Notifications and social activity
 - 🖼️ Image-upload workflow
-
+-  Feed with cursor-based pagination
+- blocked duplicate follows
 **Tech:** JavaScript, Node.js, Express, MongoDB, EJS
 
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Palak216/mini-instagram-backend)
